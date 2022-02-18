@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+.top-bar {
+  background-color: dodgerblue;
+  padding: 15px 0px;
+}
+
+.navigation {
+  padding: 15px 0px;
+  background-color: lightgray;
+  margin-bottom: 15px;
+}
+
+.menu {
+  list-style: none;
+  padding: 0px;
+  display: flex;
+}
+
+.menu-item {
+  flex: 1;
+  text-align: center;
+}
